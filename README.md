@@ -1,2 +1,4 @@
 # hello-world
-first repository of my git-hub lifw
+
+Hi, guys,
+this is my first Commit on GIT HUB.
